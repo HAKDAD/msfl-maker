@@ -9,3 +9,5 @@ make a msf listiner easily
 > python2 msf-listener-hakdad
 
 ###now give ur port,ip and payload name and it will generate automatically a listiner
+
+requirements: metasploit
