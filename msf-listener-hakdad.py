@@ -34,7 +34,6 @@ os.system('clear')
 os.system("toilet -f big '   HAKDAD ' -F gay | lolcat")
 os.system("toilet -f big 'Listner maker ' -F gay | lolcat")
 print ("                                                     --version 1.0")
-os.system("figlet /\/\/\/\/\/\/\/\/\/\/\/\/\/////////////////")
 print
 print (" Author NAME      :   VAMSI")
 print (" YOUTUBE CHANNEL  :   HAKDAD")
